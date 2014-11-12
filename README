@@ -1,0 +1,8 @@
+Instalation notes:
+	
+	git clone https://github.com/propbono/dotfiles.git
+
+
+Create Symlinks:
+
+	ln -s ~/.vim/vimrc ~/.vimrc 
